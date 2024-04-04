@@ -29,7 +29,7 @@
 
 ## Creating OS Users
 
-- Create an operating system runtime user    
+- Create a runtime user for the operating system to run OpenTenBase    
 
 ```
 [root@VM_0_29_centos ~]# adduser -d /data/opentenbase opentenbase
