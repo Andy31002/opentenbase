@@ -140,7 +140,7 @@ listen_addresses = '*'
 #Listening port number
 port = 21000
 
-#Acting as a GTM master node to provide services
+#Acting as a GTM master node to provide service
 startup = ACT
 ```
 
@@ -183,7 +183,7 @@ listen_addresses = '*'
 #Listening port number
 port = 21000
 
-#Acting as a GTM backup node to provide services
+#Acting as a GTM backup node to provide service
 startup = STANDBY
 
 #Configure GTM master node information
